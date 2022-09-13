@@ -6,6 +6,6 @@
 [x] set up bcryptjs
 [x] save users to db with bcryptjs
 [x] compare passwords with bcryptjs
-[] need to track logged-in users - set up sessions in memory
-[] set up session with mongodb
-[] protect routes
+[x] need to track logged-in users - set up sessions in memory
+[x] set up session with mongodb
+[x] protect routes - isAuthenticated/isNotAuthenticated middlewares
